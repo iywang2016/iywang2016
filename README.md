@@ -1,16 +1,29 @@
-## Hi there 👋
+## Welcome ☀️ How's your day?
 
-<!--
-**iywang2016/iywang2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Your reminder to drink water 🥤 and get fresh air 🌳 ~
 
-Here are some ideas to get you started:
+## About me 🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✋ Hi, I'm Ivory (Ivy) Wang. I go by she/her and they/them pronouns.
+
+💻 I'm studying Computer Science at the University of Washington, with an intended minor in Mathematics and/or Statistics.
+
+## My interests 😊
+
+🔐 Cybersecurity
+
+📙 App development
+
+🖼️ UI design/Graphic design
+
+🎤 Music production
+
+## My projects 🪵
+
+🎵 Tired of looping the same playlists on Spotify? Try <b>Rhythm-ix</b>, our new playlist generator:
+    
+    https://rhythm-ix.netlify.app
+
+✅ Implementing new <b>Checker Framework</b> tools with the UW PLSE Lab to improve software security at compile time:
+
+    https://github.com/iywang2016/checker-framework
