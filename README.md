@@ -2,28 +2,48 @@
 
     Your reminder to drink water 🥤 and get fresh air 🌳 ~
 
-## About me 🤔
+## About Me
 
-✋ Hi, I'm Ivory (Ivy) Wang. I go by she/her and they/them pronouns.
+Hi, I'm Ivory (Ivy) Wang! Any pronouns OK :)
 
-💻 I'm studying Computer Science at the University of Washington, with an intended minor in Mathematics and/or Statistics.
+I'm working towards my master's in Computer Science at the University of Washington, where I recently earned my BS in Computer Science with minors in Mathematics and Statistics.
 
-## My interests 😊
+## Interests
 
-🔐 Cybersecurity
+- Computing education
+- Static analysis tools
+- Cybersecurity
+- App development
+- UI design/Graphic design
 
-📙 App development
+## Project Contributions
 
-🖼️ UI design/Graphic design
+### 🎵 Rhythm-ix
 
-🎤 Music production
-
-## My projects 🪵
-
-🎵 Tired of looping the same playlists on Spotify? Try <b>Rhythm-ix</b>, our new playlist generator:
-    
     https://rhythm-ix.netlify.app
 
-✅ Implementing new <b>Checker Framework</b> tools with the UW PLSE Lab to improve software security at compile time:
+Tired of looping the same playlists on Spotify? Rhythm-ix is a Spotify playlist generator that offers more fine-grained control over playlist generation compared to the app's native, broader "For You" playlist themes.
+
+### ✅ Checker Framework
 
     https://github.com/iywang2016/checker-framework
+
+The SQL Quotes checker, part of the UW PLSE Lab's greater Checker Framework tool, facilitates safety checks on legacy (pre-prepared statements) SQL code to improve software security at compile time through annotations.
+
+### 📋 Consistency Checker
+
+    https://gitlab.cs.washington.edu/cse12x/backreadingbot
+
+Across huge intro CS courses of up to 600 students each, accurate assessment of student work is crucial. The consistency checker automates the menial process of verifying that assigned grade values corroborate TA feedback.
+
+### 🧼 moro
+
+    This is an internal tool, sorry!
+
+A course-specific static analysis tool that automates the application of objective code style criteria to more wisely allocate TA work towards providing qualitative, meaningful feedback.
+
+### ☕ Custom Java Test Runner
+
+    This is an internal tool, sorry!
+
+A course-specific custom test runner that bridges the gap between EdStem's native testing framework and the more broadly known JUnit framework.
