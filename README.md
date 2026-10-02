@@ -20,7 +20,7 @@ I'm working towards my master's in Computer Science at the University of Washing
 
 ### 🎵 Rhythm-ix
 
-    https://rhythm-ix.netlify.app
+    https://github.com/hcp-uw/rhythmix
 
 Tired of looping the same playlists on Spotify? Rhythm-ix is a Spotify playlist generator that offers more fine-grained control over playlist generation compared to the app's native, broader "For You" playlist themes.
 
